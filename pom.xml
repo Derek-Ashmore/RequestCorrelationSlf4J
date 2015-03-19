@@ -4,6 +4,16 @@
 	<groupId>org.force66</groupId>
 	<artifactId>RequestCorrelationSlf4J</artifactId>
 	<version>1.0.0-rc1</version>
+	
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	
+	<developers>
+		<developer>
+			<name>Derek C. Ashmore</name>
+		</developer>
+	</developers>
 
 	<dependencies>
 		<dependency>
@@ -266,4 +276,16 @@
 
 	<name>RequestCorrelationSlf4J</name>
 	<description>This project is a Java library that facilitates establishing and tracking correlation ids for micro-services using Slf4j.</description>
+	<licenses>
+	  <license>
+	    <name>The Apache Software License, Version 2.0</name>
+	    <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+	  </license>
+	</licenses>
+	<url>https://github.com/Derek-Ashmore/RequestCorrelationSlf4J</url>
+	<scm>
+		<url>https://github.com/Derek-Ashmore/RequestCorrelationSlf4J.git</url>
+		<connection>scm:git:https://github.com/Derek-Ashmore/RequestCorrelationSlf4J.git</connection>
+		<developerConnection>Derek C. Ashmore</developerConnection>
+	</scm>
 </project>
