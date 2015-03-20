@@ -26,7 +26,7 @@ RequestCorrelationSlf4j is easy to install whether you use maven or not.  There 
 
 ### Maven Users  
 Maven users must list a dependencies:  
-* RequestCorrelationSlf4j -- [dependency information](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22RequestCorrelation-core%22).  
+* RequestCorrelationSlf4j -- [dependency information](http://search.maven.org/#browse%7C1580117486).  
 
 ### Non-Maven Users  
 Include the following jars in your class path:  
